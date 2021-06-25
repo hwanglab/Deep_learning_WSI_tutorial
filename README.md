@@ -2,7 +2,7 @@
 
 <img src="imgs/pipeline_figure.png">
 
-This repository is designed to provide an in-depth introduction to deep learning on whole slide images. It assumes the user is familiar with the basics of Python, PyTorch and deep learning. The full walkthrough is provided in the Deep_learning_WSI_tutorial.ipynb notebook, and a related slideshow walkthrough is provided in Deep_Learning_WSI_Tutorial_Slides.pptx (and Deep_Learning_WSI_Tutorial_Slides.pdf).
+This repository is designed to provide an in-depth introduction to deep learning on whole slide images. It assumes the user is familiar with the basics of Python, PyTorch and deep learning. The full walkthrough is provided in [this notebook](Deep_learning_WSI_tutorial.ipynb), and a related slideshow walkthrough is provided in [microsoft powerpoint](Deep_Learning_WSI_Tutorial_Slides.pptx) and [PDF](Deep_Learning_WSI_Tutorial_Slides.pdf) formats.
 
 The notebook walkthrough uses a toy dataset made up of four TCGA WSI files. All TCGA .svs slide files can be downloaded from the TCGA data portal https://portal.gdc.cancer.gov/. The four used for this notebook are:
 
