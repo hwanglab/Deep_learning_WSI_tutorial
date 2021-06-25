@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+library/__pycache__
+WSIs/*/*.svs
+tiled_WSIs/

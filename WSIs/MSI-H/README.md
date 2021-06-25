@@ -1,0 +1,1 @@
+# Download MSI-H images to this folder

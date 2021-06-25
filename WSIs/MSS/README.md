@@ -1,0 +1,1 @@
+# Download MSS images to this folder
